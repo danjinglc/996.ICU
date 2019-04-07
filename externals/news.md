@@ -1,6 +1,7 @@
 # 相关媒体报道，感谢媒体朋友们
 
 ## 中文媒体
+- 央广网： [风波再起 40余家互联网公司被指实行“996工作制”](https://baijiahao.baidu.com/s?id=1629968665289823903&wfr=spider&for=pc)
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
